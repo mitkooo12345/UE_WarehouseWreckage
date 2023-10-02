@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Dimitar/Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/Dimitar/Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/Dimitar/Documents/Unreal Projects/WarehouseWreckage/Content/Maps/Minimal_Default.umap",
+				"C:/Users/Dimitar/Documents/Unreal Projects/WarehouseWreckage/Content/Maps/Minimal_Default_BuiltData.uasset",
+				"C:/Users/Dimitar/Documents/Unreal Projects/WarehouseWreckage/Content/Maps/BP_Projectile.uasset",
+				"C:/Users/Dimitar/Documents/Unreal Projects/WarehouseWreckage/Content/Maps/Main_Map.umap",
+				"C:/Users/Dimitar/Documents/Unreal Projects/WarehouseWreckage/Content/Maps/Main_Map_BuiltData.uasset",
+				"C:/Users/Dimitar/Documents/Unreal Projects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Users/Dimitar/Documents/Unreal Projects/WarehouseWreckage/Content/Maps/BP_Barrel.uasset"
+			]
+		}
+	]
+}
